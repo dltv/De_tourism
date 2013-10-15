@@ -4,11 +4,12 @@ De_Tourism
 * David Leonard and Ben Hooker
 * MPD Art Center  Fall 2013
 * Tuesdays and Thursdays 4:00-7:00
-* Office hours Fridays 3:30-6:30, ITP adjunct lounge
+* Office hours TBA 
+* TA Aaron Fooshee 
 
 ###Important links
 
-* [github repo](https://github.com/dltv/de_tourism) - Readme contains course information, repo also serves as a collection of scripts and tools for social hacking.
+* [github repo](https://github.com/dltv/de_tourism) - Readme contains course information, repo also serves as a collection of scripts and tools for augmented reality.
 
 ###Course description
 
