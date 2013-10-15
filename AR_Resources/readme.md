@@ -13,7 +13,7 @@ Augmented Reality Resources
    
     * [Sketch Pad](http://www.youtube.com/watch?v=USyoT_Ha_bA)
 
-*Immersive Offerings 
+* Immersive Offerings 
     
     * [Sketch Pad](http://www.youtube.com/watch?v=USyoT_Ha_bA)
 
