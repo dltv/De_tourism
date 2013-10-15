@@ -38,8 +38,9 @@ Prepare a video. Create a video recording from the first perspective. The point 
     * [Steven Mann](http://wearcam.org/steve.html) 
     * [Thad Starner ](http://www.cc.gatech.edu/~thad/)
     * [Jaron Lanier ](http://www.jaronlanier.com/)
-    * [ Diane Gromala](http://www.youtube.com/watch?v=cRdarMz--Pw)
     * [Brenda Laurel](https://vimeo.com/20338217)
+    * [ Diane Gromala](http://www.youtube.com/watch?v=cRdarMz--Pw)
+ 
 
 
  
