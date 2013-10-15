@@ -8,35 +8,24 @@ De_Tourism
 
 ###Important links
 
-* [github repo](https://github.com/lmccart/AppropriatingInteractionTechnologies) - Readme contains course information, repo also serves as a collection of scripts and tools for social hacking.
-* [google drive](https://drive.google.com/folderview?id=0B9tyIRZ76JCdNzdlUHAtdlUtTFU&usp=sharing) - Reading assignments and other docs.
-* [mailing list](http://groups.google.com/group/appropriating-interaction-technologies/) - For course announcements and longer form discussions, feedback, questions. 
-* [#socialhacking](https://twitter.com/search?q=%23socialhacking&mode=realtime) - For submitting homework links, sharing shorter thoughts with public.
-* [#socialhacking aggregator](http://kylemcdonald.net/itp/AppropriatingInteractionTechnologies/tweetscrape/)
+* [github repo](https://github.com/dltv/de_tourism) - Readme contains course information, repo also serves as a collection of scripts and tools for Augmented Reality projects.
+
 
 ###Course description
 
-This course explores the structures and systems of social interactions, identity, and self representation as mediated by technology. We will investigate ways that technology can be used to augment, subvert, alter, mediate, and ultimately deepen interaction in a lasting way.
-
-How do the things we build and use limit and expand the way we understand and relate to each other? We'll explore this question by building new tools and creating new situations for breaking us out of existing patterns, and discussing contextual examples from media art, performance art, psychology and pop culture. Technologies explored will include computer vision (face/body/eye tracking with openFrameworks), data representation and glitch, browser extensions and plugins (in Chrome), computer security, mobile platforms, and social automation and APIs (Facebook, Twitter, Mechanical Turk).
-
-Students will develop projects that alter or disrupt social space in an attempt to reveal existing patterns or truths about our experiences and technologies, and possibilities for richer interactions. Different
-tactics for intervention and performance will be explored, first through a set of short prompts or experiments, and then through a larger, more thorough intervention.
+Bruce Sterling described Augmented Reality (AR) as “the collision of metaphysics and technology,” but AR—defined as realtime video composite technology that overlays information, graphics and animation through displays—often remains the gimmick sibling to the even more trivialized virtual reality.
+Google glass and Oculus Rift style hardware combined with motion capture, face recognition, sensors, GPS, and other detection software could mean several possible futures for AR. This studio will focus on the assumption that AR will transition into a primary language of general computing.
+The studio will include workshops, readings, viewings, demos that will inspire student exploration leading the creation of an original AR application. The final output should expand the scope of AR to guide a user through a poetic, critical and psychological immersive experience.
 
 ###Technical requirements
 
-A conviction that creative people can derail society for the best, a deep love for code, and a willingness to explore uncomfortable situations. You should at least have taken Introduction to Computational Media or have similar experience with programming.
-
-This four-point course will meet in the first twelve weeks of the semester.
+This course will meet twice a week the last 4 weeks of the semester. While programming will not be taught we will use various software and hardware platforms including camera's, computers, open-source software, etc. Students will be required to discuss technical methods as a sportive component of the conceptual. It is necessary that these projects be completed by the final crit day. technical perimeters for successful completion of the project must be sorted within the first part of the class so the remainder of the time can be spent honing the experience of the project.  
 
 ###Syllabus
 
-####Week 1 (9/9): Data representation and glitch
-* Class overview
-    * Policy regarding auditing: if you come you should be engaged, but we can’t create a situation where we are giving you time instead of students who are registered.
-    * Policy regarding attendance: you can miss one class, anything else you fail.
-    * Policy regarding work: we are going to be introducing a variety of techniques and tools, ranging in technical difficulty. our main requirement for work is that it is of high quality -- it need not be hypertechnical, but it does need to be very well thought out and well executed.
-* Attendance and contracts.
+####Week 1 (10/22): P.O.V
+
+Assignment for first class. Prepare a video. Create a video recording from the first perspective. The point of view can be taken from the perspective of animate and inanimate objects. Consider the power of perspective. Whose eyes are we looking through? Feel free to include audio or to filter the video in any way you like. The rest of the class will be much more open ended. The projects will be self guided with he theme of augmented reality as a driver. This assignment is an exercise to consider an important feature of transmitting perspective. Imagine capturing experience as apposed to capturing moments.
 
 * What spaces are social? What are rules? How do we test them? What happens when we don’t follow them? How do we misinterpret each other? Failures, communication breakdowns and arguments, ambiguity?
 * Breaching experiments, sociology, Garfinkel, Goffman, and Milgram
