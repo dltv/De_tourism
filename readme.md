@@ -21,7 +21,7 @@ The studio will include workshops, readings, viewings, demos that will inspire 
 
 This course will meet twice a week the last 4 weeks of the semester. While programming will not be taught we will use various software and hardware platforms including camera's, computers, open-source software, etc. Students will be required to discuss technical methods as a sportive component of the conceptual. It is necessary that these projects be completed by the final crit day. technical perimeters for successful completion of the project must be sorted within the first part of the class so the remainder of the time can be spent honing the experience of the project.
 
-###Syllabus
+###Brief 1
 
 #### POV Due (10/22): 
 
