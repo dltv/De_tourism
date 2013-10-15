@@ -30,9 +30,9 @@ Prepare a video. Create a video recording from the first perspective. The point 
 * Cinematic Inspirations
     * [Lady In the Lake](http://www.youtube.com/watch?v=Zzdl-js_mQ4) 
     * [Alfred Hitchocks Rope: Only 10 cuts](http://www.youtube.com/watch?v=MpBxDUDUKsU)
-    * [Nathan for you STDs](http://comedycentral.tumblr.com/post/52336234961/nathan-is-at-it-again-if-you-missed-his-last-few)
-    * [Nathan for you 2 grams](http://comedycentral.tumblr.com/post/48862017449/this-was-hilarious-via-nathanfielder-for)
-    * [Oversharer](http://socialmediacollective.org/2011/07/29/the-oversharer-and-other-social-media-experiments/)
+    * [DOA](http://www.youtube.com/watch?v=3fMDJ6pwSfo)
+    * [The Man With the Movie Camera ](http://www.youtube.com/watch?v=8Fd_T4l2qaQ)
+    * [C'était un Rendez-vous](https://www.facebook.com/video/video.php?v=2043762289244)
     * [Erving Goffman](en.wikipedia.org/wiki/Erving_Goffman) - sociologist studied face-to-face interaction, related to performance
     * [The Presentation of Self in Everyday Life](http://ecx.images-amazon.com/images/I/51wDkBDP%2BwL.jpg)
     * [Interaction Ritual](http://www.riverwashbooks.com/shop_image/product/SOC0846.jpg)
