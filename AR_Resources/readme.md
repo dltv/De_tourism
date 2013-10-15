@@ -25,6 +25,8 @@ Augmented Reality Resources
 * Immersive Literature 
     
     * [Snow Crash: Neal Stephenson 1992](http://hell.pl/agnus/anglistyka/2211/Neal%20Stephenson%20-%20Snow%20Crash.pdf)
+    * [Spook Country: William Gibson 2003 and other Audio books!](http://www.mechodownload.com/forum/audio-books/1413354-william-gibson-audiobook-collection.html)
+    * [The Machine Stops: E.M. Forster 1909](http://archive.ncsa.illinois.edu/prajlich/forster.html)
   
 
 
