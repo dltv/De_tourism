@@ -22,6 +22,10 @@ Augmented Reality Resources
     * [They Live: 1988](http://www.youtube.com/watch?v=iJC4R1uXDaE)
     * [Brain Dead: 1990](http://www.imdb.com/title/tt0099173/)
 
+* Immersive Literature 
+    
+    * [Snow Crash: Neal Stephenson 1992](http://hell.pl/agnus/anglistyka/2211/Neal%20Stephenson%20-%20Snow%20Crash.pdf)
+  
 
 
 
