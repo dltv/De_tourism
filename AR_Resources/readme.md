@@ -9,7 +9,7 @@ Augmented Reality Resources
     * [Brenda Laurel](https://vimeo.com/20338217)
     * [Diane Gromala](http://www.youtube.com/watch?v=cRdarMz--Pw)
     
-*Early Demos 
+* Early Demos 
    
     * [Sketch Pad](http://www.youtube.com/watch?v=USyoT_Ha_bA)
 
