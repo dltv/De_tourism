@@ -34,6 +34,12 @@ Prepare a video. Create a video recording from the first perspective. The point 
     * [The Man With the Movie Camera ](http://www.youtube.com/watch?v=8Fd_T4l2qaQ)
     * [C'était un Rendez-vous](https://www.facebook.com/video/video.php?v=2043762289244)
 
+* Augmanauts 
+    * [Steven Mann](http://wearcam.org/steve.html) 
+    * [Thad Starner ](http://www.cc.gatech.edu/~thad/)
+    * [Jaron Lanier ](http://www.jaronlanier.com/)
+    * [ Diane Gromala](http://www.youtube.com/watch?v=cRdarMz--Pw)
+    * [Brenda Laurel](https://vimeo.com/20338217)
 
 
  
