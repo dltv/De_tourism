@@ -20,14 +20,12 @@ The studio will include workshops, readings, viewings, demos that will inspire 
 ###Technical requirements
 
 This course will meet twice a week the last 4 weeks of the semester. While programming will not be taught we will use various software and hardware platforms including camera's, computers, open-source software, etc. Students will be required to discuss technical methods as a sportive component of the conceptual. It is necessary that these projects be completed by the final crit day. technical perimeters for successful completion of the project must be sorted within the first part of the class so the remainder of the time can be spent honing the experience of the project.
+
 ###Syllabus
 
-####Week 1 (10/22): POV
-* Class overview
-    * Policy regarding auditing: if you come you should be engaged, but we can’t create a situation where we are giving you time instead of students who are registered.
-    * Policy regarding attendance: you can miss one class, anything else you fail.
-    * Policy regarding work: we are going to be introducing a variety of techniques and tools, ranging in technical difficulty. our main requirement for work is that it is of high quality -- it need not be hypertechnical, but it does need to be very well thought out and well executed.
-* Attendance and contracts.
+#### POV Due (10/22): 
+
+Prepare a video. Create a video recording from the first perspective. The point of view can be taken from the perspective of animate and inanimate objects. Consider the power of perspective. Whose eyes are we looking through? Feel free to include audio or to filter the video in any way you like. The rest of the class will be much more open ended. The projects will be self guided with he theme of augmented reality as a driver. This assignment is an exercise to consider an important feature of transmitting perspective. Imagine capturing experience as apposed to capturing moments.
 
 * What spaces are social? What are rules? How do we test them? What happens when we don’t follow them? How do we misinterpret each other? Failures, communication breakdowns and arguments, ambiguity?
 * Breaching experiments, sociology, Garfinkel, Goffman, and Milgram
