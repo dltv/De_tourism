@@ -23,9 +23,11 @@ This course will meet twice a week the last 4 weeks of the semester. While progr
 
 ###Brief 1
 
-#### POV Due (10/22): 
+#### Point of View(POV) Due (10/22): 
 
-Prepare a video. Create a video recording from the first perspective. The point of view can be taken from the perspective of animate and inanimate objects. Consider the power of perspective. Whose eyes are we looking through? Feel free to include audio or to filter the video in any way you like. The rest of the class will be much more open ended. The projects will be self guided with he theme of augmented reality as a driver. This assignment is an exercise to consider an important feature of transmitting perspective. Imagine capturing experience as apposed to capturing moments. What is the difference between capturing a moment and experience? How are can you express perspective? 
+Create a video recording from the first perspective (1 minute max). The point of view(POV) can be taken from the perspective of animate and inanimate objects. Consider the power of perspective. Whose eyes are we looking through? Feel free to include audio or to filter the video in any way you like. The rest of the class will be much more open ended. The projects will be self guided with he theme of augmented reality as a driver. This assignment is an exercise to consider an important feature of transmitting perspective. Imagine capturing experience as apposed to capturing moments. What is the difference between capturing a moment and experience? How are can you express perspective? 
+
+http://en.wikipedia.org/wiki/POV_shot
 
 * POV Cinematic Inspirations
     * [Lady In the Lake](http://www.youtube.com/watch?v=Zzdl-js_mQ4) 
