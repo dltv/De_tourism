@@ -4,7 +4,6 @@ De_Tourism
 * David Leonard and Ben Hooker
 * MPD Art Center  Fall 2013
 * Tuesdays and Thursdays 4:00-7:00
-* Office hours TBA 
 * TA Aaron Fooshee 
 
 ###Important links
