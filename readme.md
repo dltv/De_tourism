@@ -36,7 +36,9 @@ http://en.wikipedia.org/wiki/POV_shot
     * [The Man With the Movie Camera ](http://www.youtube.com/watch?v=8Fd_T4l2qaQ)
     * [C'était un Rendez-vous](https://www.facebook.com/video/video.php?v=2043762289244)
     * [Enter the Void](http://www.imdb.com/title/tt1191111/)
+    * [Kubrick_Perspective](https://vimeo.com/48425421)
 
+				
   
 
  
