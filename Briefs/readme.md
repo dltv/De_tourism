@@ -25,7 +25,7 @@ immersive experience.
 
 ####Talking points, possible starting places:
    
-   *what is real? if everything is mediated, how do you recognize anything else?
+   * what is real? if everything is mediated, how do you recognize anything else?
    different types of immersion and augmentation
    * emotionally, narratively, or aesthetically beyond what’s around
    * telepresence, traveling without moving
