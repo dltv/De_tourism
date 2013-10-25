@@ -29,10 +29,8 @@ This course will meet twice a week the last 4 weeks of the semester. While progr
 * Wed Oct 30	10am-6pm	Techfest workshop #2
 * Thu Oct 31	4-7pm		Quick group meeting followed by Individual meetings
 * Sat Nov 2	noon-6pm	Techfest workshop #3 (maybe)
-
 * Tue Nov 5	4-7pm		Quick group meeting followed by Individual meetings
 * Thu Nov 7	4-7pm		‘Cardboard playtest’ in-progress review
-
 * Tue Nov 12	4-8pm		Individual meetings (10 min ea.) – We strongly encourage you to be ready to present a section of your tour at this meeting.
 * Thu Nov 14	2-6pm		Final Crit
 
