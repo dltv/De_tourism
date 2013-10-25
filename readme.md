@@ -21,24 +21,23 @@ The studio will include workshops, readings, viewings, demos that will inspire 
 
 This course will meet twice a week the last 4 weeks of the semester. While programming will not be taught we will use various software and hardware platforms including camera's, computers, open-source software, etc. Students will be required to discuss technical methods as a sportive component of the conceptual. It is necessary that these projects be completed by the final crit day. technical perimeters for successful completion of the project must be sorted within the first part of the class so the remainder of the time can be spent honing the experience of the project.
 
-###Brief 1
+###Schedule 
 
-#### Point of View(POV) Due (10/22): 
+* Thu Oct 24	4-9pm		Briefing followed by screenings
+* Sat Oct 26	afternoon	Techfest workshop #1
+* Tue Oct 29	4-7pm		Pecha-kucha-style crit of project ideas
+* Wed Oct 30	10am-6pm	Techfest workshop #2
+* Thu Oct 31	4-7pm		Quick group meeting followed by Individual meetings
+* Sat Nov 2	noon-6pm	Techfest workshop #3 (maybe)
 
-Create a video recording from the first perspective (1 minute max). The point of view(POV) can be taken from the perspective of animate and inanimate objects. Consider the power of perspective. Whose eyes are we looking through? Feel free to include audio or to filter the video in any way you like. The rest of the class will be much more open ended. The projects will be self guided with he theme of augmented reality as a driver. This assignment is an exercise to attempt to transmit perspective. 
+* Tue Nov 5	4-7pm		Quick group meeting followed by Individual meetings
+* Thu Nov 7	4-7pm		‘Cardboard playtest’ in-progress review
 
-http://en.wikipedia.org/wiki/POV_shot
+* Tue Nov 12	4-8pm		Individual meetings (10 min ea.) – We strongly encourage you to be ready to present a section of your tour at this meeting.
+* Thu Nov 14	2-6pm		Final Crit
 
-* POV Cinematic Inspirations
-    * [Lady In the Lake](http://www.youtube.com/watch?v=Zzdl-js_mQ4) 
-    * [Alfred Hitchocks Rope: Only 10 cuts](http://www.youtube.com/watch?v=MpBxDUDUKsU)
-    * [DOA](http://www.youtube.com/watch?v=3fMDJ6pwSfo)
-    * [The Man With the Movie Camera ](http://www.youtube.com/watch?v=8Fd_T4l2qaQ)
-    * [C'était un Rendez-vous](https://www.facebook.com/video/video.php?v=2043762289244)
-    * [Enter the Void](http://www.imdb.com/title/tt1191111/)
-    * [Kubrick_Perspective](https://vimeo.com/48425421)
 
-				
+	
   
 
  
