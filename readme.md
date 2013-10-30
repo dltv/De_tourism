@@ -1,3 +1,4 @@
+TEST!
 De_Tourism
 ======================================
 
@@ -6,8 +7,6 @@ De_Tourism
 * Tuesdays and Thursdays 4:00-7:00pm
 * TA Aaron Fooshee 
 * There will be additional events to be announced 
-
-blah blah blah test
 
 ###Important links
 
