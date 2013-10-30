@@ -7,6 +7,8 @@ De_Tourism
 * TA Aaron Fooshee 
 * There will be additional events to be announced 
 
+blah blah blah test
+
 ###Important links
 
 * [github repo](https://github.com/dltv/de_tourism) - Readme contains course information, repo also serves as a collection of scripts and tools for augmented reality.
